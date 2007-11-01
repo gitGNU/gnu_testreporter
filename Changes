@@ -1,5 +1,7 @@
 Revision history for Perl extension Test::Reporter. For canonical change info,
-visit the master repository at: http://repo.or.cz/w/test-reporter.git
+visit the master repository at:
+
+http://git.savannah.nongnu.org/gitweb/?p=testreporter.git
 
 1.38    Tue Oct 09 21:00:00 EDT 2007
         - Additional compatibility improvements for VMS.
