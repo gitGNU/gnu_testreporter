@@ -1,7 +1,7 @@
 # Test::Reporter - sends test results to cpan-testers@perl.org
 #
-# Copyright 2002, 2003, 2004, 2005, 2006, 2007 Adam J. Foxson.
-# Copyright 2004, 2005 Richard Soderberg.
+# Copyright (C) 2002, 2003, 2004, 2005, 2006, 2007 Adam J. Foxson.
+# Copyright (C) 2004, 2005 Richard Soderberg.
 # All rights reserved.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -1151,8 +1151,8 @@ to relay for anything other than perl.org and cpan.org.
 
 =head1 COPYRIGHT
 
- Copyright 2002, 2003, 2004, 2005, 2006, 2007 Adam J. Foxson.
- Copyright 2004, 2005 Richard Soderberg.
+ Copyright (C) 2002, 2003, 2004, 2005, 2006, 2007 Adam J. Foxson.
+ Copyright (C) 2004, 2005 Richard Soderberg.
  All rights reserved.
 
  This program is free software; you may redistribute it
